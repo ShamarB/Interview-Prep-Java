@@ -1,6 +1,5 @@
 package Arrays;
 
-
 public class FindLowHigh {
 
 	public static void main(String[] args) {
