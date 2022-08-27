@@ -19,13 +19,6 @@ public class FirstDuplicate {
 		return -1;
 		
 	}
-	
-	
-	
-	
-
-	
-	
 	public static int firstDuplicate(int[] array) {
 		HashSet<Integer> set = new HashSet<Integer>();
 		for (int i = 0; i < array.length; i++) {
