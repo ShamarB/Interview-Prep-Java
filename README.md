@@ -1,5 +1,5 @@
 # Interview-Prep-Java
-All of the algorithms used to prep for those persky coding interviews
+All of the algorithms used to prep for those pesky coding interviews
 
 Everything is broken down into sections. 
 
