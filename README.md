@@ -7,3 +7,4 @@ It's first broken down by algorith types i.e. Arrays, Trees, Hashes, Graphs, Lin
 
 And from there it is broken down further like Trees will contain both BST problems as well as regular BT ones. Linked lists will have singly and doubly linked lists.
 
+I'm tryna make some changes
