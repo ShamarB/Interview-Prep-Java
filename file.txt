@@ -1,0 +1,1 @@
+I'm so dumb so the way you can fix the the "vim issue" is to just press "i" and start typing.
